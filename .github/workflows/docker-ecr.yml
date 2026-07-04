@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: ap-south-1
-  ECR_REPOSITORY: url-shortener
+  ECR_REPOSITORY: url-shortner
 
 jobs:
   build-and-push:
